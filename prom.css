@@ -1,0 +1,78 @@
+body {
+  background-color: #ffc0ad;
+
+
+}
+.gif {
+  background-image: url('https://media.giphy.com/media/d3MKBzBTtCUIDwwU/giphy.gif');
+}
+
+.cat {
+  background-image: url('https://i.kym-cdn.com/entries/icons/mobile/000/026/489/crying.jpg');
+  background-size: cover;
+}
+p {
+  color:#271c19 ;
+  text-align: center;
+  font-size: 30px;
+}
+
+h4 {
+  text-align: center;
+  margin-top: 100;
+  font-size: 30px;
+}
+
+.myButton {
+	box-shadow: 0px 0px 0px 2px #ffc0ad;
+	background-color:#ffc0ad;
+	border-radius:10px;
+	border:1px solid #000000;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:19px;
+	padding:12px 37px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+  margin-left: 46.5%;
+}
+.myButton:hover {
+	background-color:#000000;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.yourButton {
+	box-shadow: 0px 0px 0px 2px #ffc0ad;
+	background-color:#ffc0ad;
+	border-radius:10px;
+	border:1px solid #000000;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:19px;
+	padding:12px 37px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+  margin-left: 46.5%;
+
+}
+.yourButton:hover {
+	background-color:#000000;
+}
+.yourButton:active {
+	position:relative;
+	top:1px;
+}
+
+.gif {
+  height: 100%;
+  width: 100%;
+  background-size: cover;
+  margin: auto;
+}
